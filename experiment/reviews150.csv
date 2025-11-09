@@ -1,0 +1,151 @@
+,review,sentiment
+0,Amazing product! Works perfectly and exceeds expectations.,positive
+1,I love this! It’s so helpful in my daily life.,positive
+2,Great quality and super easy to use.,positive
+3,"Excellent item, highly recommend to everyone.",positive
+4,Product arrived on time and performs wonderfully.,positive
+5,Very satisfied with this purchase.,positive
+6,Totally worth the money!,positive
+7,"Fantastic experience, will buy again.",positive
+8,Good quality and reliable performance.,positive
+9,"Absolutely love it, thank you!",positive
+10,Perfect product for my needs.,positive
+11,This is an excellent gadget for home use.,positive
+12,Exceeded my expectations completely.,positive
+13,The build quality is great and it looks stylish.,positive
+14,Superb packaging and timely delivery.,positive
+15,Value for money! Highly recommend.,positive
+16,Very effective and works like a charm.,positive
+17,Really happy with this purchase.,positive
+18,"It’s a must-buy product, totally awesome!",positive
+19,I’m impressed with the battery life.,positive
+20,"Five stars from me, brilliant product.",positive
+21,Very smooth and efficient operation.,positive
+22,Great product at a reasonable price.,positive
+23,This product deserves all the praise.,positive
+24,I will recommend this to my friends.,positive
+25,Loved the features and the design.,positive
+26,Everything works exactly as promised.,positive
+27,It makes my daily tasks much easier.,positive
+28,"This one’s a winner, absolutely perfect.",positive
+29,I’m very pleased with the performance.,positive
+30,Top-notch quality and quick delivery.,positive
+31,Truly satisfied with this purchase.,positive
+32,It’s been working perfectly for weeks.,positive
+33,"Good performance, totally satisfied.",positive
+34,An excellent choice for beginners.,positive
+35,The color and design are beautiful.,positive
+36,It exceeded all my expectations.,positive
+37,Super useful and well-built product.,positive
+38,I had a great shopping experience.,positive
+39,Totally love this gadget!,positive
+40,High quality at a low price!,positive
+41,I’m really happy with how it works.,positive
+42,So convenient and easy to handle.,positive
+43,This brand never disappoints!,positive
+44,I’ll definitely buy another one soon.,positive
+45,Product quality is amazing as always.,positive
+46,Awesome purchase experience.,positive
+47,Everything is just perfect.,positive
+48,Reliable and durable product.,positive
+49,Best thing I bought this month.,positive
+50,"The product is okay, not great but not bad either.",neutral
+51,"Average quality, does the job.",neutral
+52,It’s fine for the price.,neutral
+53,"Nothing special about it, works fine.",neutral
+54,Decent product but could be improved.,neutral
+55,Neutral experience overall.,neutral
+56,"It works as expected, no surprises.",neutral
+57,The item performs moderately well.,neutral
+58,"It’s an ordinary product, nothing fancy.",neutral
+59,"Delivery was normal, packaging fine.",neutral
+60,I have mixed feelings about this.,neutral
+61,"Neither good nor bad, just okay.",neutral
+62,Performance is average.,neutral
+63,"The color is different than expected, but okay.",neutral
+64,It’s usable but not exciting.,neutral
+65,Not impressive but functional.,neutral
+66,Product meets basic requirements.,neutral
+67,Expected a bit more for this price.,neutral
+68,"Does what it says, nothing extra.",neutral
+69,"The design is fine, nothing special.",neutral
+70,Seems okay so far.,neutral
+71,Average experience using this.,neutral
+72,It’s just a standard product.,neutral
+73,Doesn’t stand out in any way.,neutral
+74,"Normal performance, not exceptional.",neutral
+75,Neither happy nor disappointed.,neutral
+76,"Satisfactory product, no major issues.",neutral
+77,It’s adequate for light use.,neutral
+78,Mediocre experience overall.,neutral
+79,Meets minimum expectations.,neutral
+80,"Just okay, can’t complain much.",neutral
+81,"Looks fine, works okay.",neutral
+82,This product is all right for casual use.,neutral
+83,"Nothing extraordinary, but fine.",neutral
+84,Reasonable for its cost.,neutral
+85,"Not sure if I’ll buy again, maybe.",neutral
+86,Neither loved nor hated it.,neutral
+87,Simple and functional.,neutral
+88,Performance is acceptable.,neutral
+89,Design is okay but feels cheap.,neutral
+90,"Not good, not bad — average.",neutral
+91,"Usable, but not outstanding.",neutral
+92,A bit plain and simple.,neutral
+93,The quality is fair for the price.,neutral
+94,Mildly satisfied with this.,neutral
+95,Neutral product overall.,neutral
+96,It’s decent for occasional use.,neutral
+97,Delivery and packaging were standard.,neutral
+98,Typical performance as expected.,neutral
+99,Okay for temporary use.,neutral
+100,"Terrible product, totally useless.",negative
+101,I’m very disappointed with this purchase.,negative
+102,Poor quality and waste of money.,negative
+103,Stopped working after one week.,negative
+104,Worst item I have ever bought.,negative
+105,Not worth the price at all.,negative
+106,"Defective piece, doesn’t work properly.",negative
+107,Extremely low quality product.,negative
+108,The item arrived broken.,negative
+109,Very poor customer support.,negative
+110,Bad packaging and delayed delivery.,negative
+111,The product doesn’t match the description.,negative
+112,Completely dissatisfied with the performance.,negative
+113,It overheats after a few minutes.,negative
+114,Not recommended at all.,negative
+115,Worst experience ever.,negative
+116,Feels cheap and fragile.,negative
+117,Doesn’t do what it claims.,negative
+118,The battery died within two days.,negative
+119,Waste of money and time.,negative
+120,I regret buying this.,negative
+121,Performance is terrible.,negative
+122,Stopped working within a week.,negative
+123,The quality is extremely poor.,negative
+124,It’s broken and unusable.,negative
+125,"Disappointed, not what I expected.",negative
+126,The size and color are wrong.,negative
+127,Very slow and unresponsive.,negative
+128,Not satisfied with the results.,negative
+129,Had to return it immediately.,negative
+130,Zero stars if I could give that.,negative
+131,Completely unreliable product.,negative
+132,The material feels very cheap.,negative
+133,It failed after a few uses.,negative
+134,The worst product in this category.,negative
+135,Customer service never responded.,negative
+136,I want my money back.,negative
+137,Not at all durable.,negative
+138,Would not recommend this to anyone.,negative
+139,Very bad purchase decision.,negative
+140,Product is faulty and useless.,negative
+141,Doesn’t turn on sometimes.,negative
+142,Extremely disappointed with this brand.,negative
+143,"Useless product, don’t buy it.",negative
+144,Performance is very poor.,negative
+145,It stopped working suddenly.,negative
+146,"Total waste, nothing works.",negative
+147,I hate this product.,negative
+148,Quality control is terrible.,negative
+149,Not functioning as expected.,negative

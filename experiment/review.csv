@@ -1,0 +1,11 @@
+,review,sentiment
+0,"This product is amazing, I love it!",positive
+1,"Terrible quality, very disappointed.",negative
+2,"It works okay, nothing special.",neutral
+3,Excellent value for money.,positive
+4,Worst purchase I have ever made.,negative
+5,"Good product, but delivery was late.",neutral
+6,"Not bad, but could be better.",neutral
+7,Absolutely fantastic experience!,positive
+8,"I hate this item, waste of money.",negative
+9,"Just average, nothing great or bad.",neutral
